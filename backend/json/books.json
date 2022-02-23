@@ -1,0 +1,34 @@
+{
+    "exemplars":[
+        {
+            "title" : "Laskar Pelangi",
+            "author" : "Gabriel García Márquez",
+            "state" : "ready"
+        },
+        {
+            "title" : "Si Kancil",
+            "author" : "Gabriel García Márquez",
+            "state" : "ready"
+        },
+        {
+            "title" : "Malam minggu miko",
+            "author" : "Gabriel García Márquez",
+            "state" : "ready"
+        },
+        {
+            "title" : "Rayuela",
+            "author" : "Julio Cortázar",
+            "state" : "ready"
+        },
+        {
+            "title" : "Cara membuat Website 2022",
+            "author" : "Eduardo Galeano",
+            "state" : "ready"
+        },
+        {
+            "title" : "Cara menjadi Software Engineer 2022",
+            "author" : "Juan Rulfo",
+            "state" : "ready"
+        }
+    ]
+}
